@@ -6,12 +6,20 @@ This project is the prototype of my final project which is to build an app that 
 
 ## Main feature 🛠️
 
-menu 
+# menu 
   - food inventory
   - ustensils & __ inventory
   - profile creation
   - find recipe (entrée/plat/dessert)
   - create a recipe
 
-To be continued :D
+## architecture 
+The project is divided into different files to have a better and well-organised structure. 
 
+## data managment 
+panda/or numpy
+
+## saving data 
+json
+
+To be continued :D
